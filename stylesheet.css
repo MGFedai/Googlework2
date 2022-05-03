@@ -1,0 +1,215 @@
+.logoorta{
+    margin-top: 16em;
+
+    text-align: center;
+    
+    
+    }
+    .altsection{
+        margin-top: 5em;
+        width: 550px;
+        height: 60px;
+        float: left;
+        background-color: aqua;
+        margin-left: 90px;
+        text-align: center;
+        padding-top: 10px;
+    }
+    .card{
+        text-align: center;
+        
+        width: 200;
+        height: 63px;
+        margin-left: 90px;
+        margin-right: 100px;
+        margin-top: -15px;
+        margin-bottom: 2px;
+    
+    }
+    
+    .middlesection{
+        width: 320px;
+        height: 70px;
+        float: left;
+        background-color: rgb(22, 192, 192);
+        margin-left: 1px;
+        text-align: center;
+        font-size: small;
+    }
+    .lastsection{
+        width: 630px;
+        height: 70px;
+        float: left;
+        background-color: rgb(22, 192, 192);
+        margin-left: 1px;
+        text-align: center;
+        font-size: small;
+    }
+    .fotter{
+        margin-top: 30px;
+        text-align: center;
+        float: center;
+        font-size: 0.8em
+    }
+    .altalan{
+        margin-left: 3em;
+        width: 100em;
+        height: 2.5em;
+        background-color:#f2f2f2;
+
+    }
+    .banner{
+        font-size: 14px;
+        float: left;
+        padding-left: 1em;        
+        height: 1.9em;
+        width: 5em;
+        padding-top: 1em;
+        background-color:#f2f2f2;
+        font-family: Arial, Helvetica, sans-serif; 
+        
+    }
+    
+    a
+    .googlesearch {
+        margin: 11px 4px;
+        padding: 0 16px;
+        line-height: 27px;
+        width: 40em;
+        text-align: center;
+        cursor: pointer;
+        user-select: none;
+        cursor: pointer;
+
+      }
+      .buttoncss{
+          background-color: #f2f2f2;;
+          margin-top: 2em;
+          border: 1px;
+          font-family: Arial, Helvetica, sans-serif;
+          color: #5f6368;
+          font-size: 14px;
+          height: 38px;
+          margin-left: 1em;
+      }
+      
+      .input-enter {
+        display: flex;
+        flex: 1;
+        flex-wrap: wrap;
+      }
+      
+      .input-area {
+        color: transparent;
+        flex: 100%;
+        white-space: pre;
+        font: 16px arial, sans-serif;
+        line-height: 34px;
+        height: 34px !important;
+        display: block;
+        
+      }
+      
+      .input {
+        margin-left: 30em;
+        padding: 0;
+        
+        word-wrap: break-word;
+        outline: none;
+        display: flex;
+        flex: 100%;
+        margin-top: -68px;
+        font: 16px arial, sans-serif;
+        line-height: 34px;
+        height: 34px !important;
+        text-rendering: auto;
+        letter-spacing: normal;
+        word-spacing: normal;
+        text-transform: none;
+        text-indent: 0px;
+        text-shadow: none;
+        text-align: start;
+        appearance: textfield;
+        cursor: text;
+        width: 35em;
+        border-radius: 1em;
+        border-color: #f2f2f2;
+      }
+      .XDyW0e{
+          margin-left: 36em;
+          width: 100px;
+          height: 100px;
+          
+      }
+      .banner2{
+        font-size: 14px;
+        float: left;
+        padding-left: 1em;        
+        height: 1.9em;
+        width: 10em;
+        padding-top: 1em;
+        background-color:#f2f2f2;
+        font-family: Arial, Helvetica, sans-serif;}
+    .banner3{
+            font-size: 14px;
+            float: left;
+            padding-left:1em;        
+            height: 1.9em;
+            width: 1em;
+            padding-top: 1em;
+            background-color:#f2f2f2;
+            font-family: Arial, Helvetica, sans-serif;
+            margin-left: 72em;}
+    .banner4{
+                font-size: 14px;
+                float: left;
+                padding-left: 1em;        
+                height: 1.9em;
+                width:1em;
+                margin-left: 3em;
+                padding-top: 1em;
+                background-color:#f2f2f2;
+                font-family: Arial, Helvetica, sans-serif;}
+    .banner5{
+                    font-size: 14px;
+                    float: left;
+                    height: 1em;
+                    width: 1em;
+                    padding-top: 1em;
+                    margin-left: 3em;
+                    background-color:#f2f2f2;
+                    font-family: Arial, Helvetica, sans-serif;}
+    .arama{
+        height: 1em;
+        width: 1em;
+    }
+    .altalan2{
+        margin-left: 3em;
+        width: 100em;
+        height: 2.5em;
+        background-color:#ffffff;}
+    .bannerüst{
+        background-color: #ffffff;
+        float: left;
+        padding-left: 1em;
+    }
+    .bannerright{
+        background-color: #ffffff;
+        float: left;
+        padding-left: 
+    80em;
+    }
+    .dot9{
+        margin-left: 1em;
+        width: 1em;
+        height: 1em;
+        float: left;
+
+    }
+    .image{
+        margin-left: 1em;
+        width: 1em;
+        height: 1em;
+        float: left;
+        border-radius: 1em;
+    }
